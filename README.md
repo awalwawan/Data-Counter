@@ -53,6 +53,14 @@
       color: #666;
       font-style: italic;
     }
+    .footer-text2 {
+      color: lightblue;
+      font-style: italic;
+      text-align: center;
+      margin-top: 50px;
+      padding: 20px;
+      font-size: 16px;
+    }
   </style>
 </head>
 <body>
@@ -89,17 +97,10 @@
     </form>
     <div class="footer-text">
 <a href="https://docs.google.com/spreadsheets/d/1-YZgNIkJshhQceFYaSvN-KGtVNId2_qWNT00BNPGdNE/edit?gid=293948849#gid=293948849" style="background-color: red; color: white; padding: 10px 20px; border: none; border-radius: 5px; text-decoration: none;">Buka Spreadsheet</a>
-  <title>Form Pencatatan Counter By Awal</title>
-  <style>
-    .footer-text {
-      color: lightblue;
-      font-style: italic;
-      text-align: center;
-      margin-top: 50px;
-      padding: 20px;
-      font-size: 16px;
-    }
-  </style>
+<div class="footer-text2">
+    Form Pencatatan Counter<br>
+    By AWAL
+  </div>
     </div>
   </div>
 
@@ -113,7 +114,7 @@
         body: formData
       })
       .then(response => {
-        alert('Data berhasil dikirim!');
+        alert('Okemi Coiiiii!');
         form.reset();
       })
       .catch(error => {
