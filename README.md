@@ -88,9 +88,7 @@
       <button type="submit">Kirim</button>
     </form>
     <div class="footer-text">
-    <a href="[URL_TUJUAN](https://docs.google.com/spreadsheets/d/1-YZgNIkJshhQceFYaSvN-KGtVNId2_qWNT00BNPGdNE/edit?gid=293948849#gid=293948849&range=A1)">
-  <button>Lihat Counter</button>
-</a>
+<a href="https://docs.google.com/spreadsheets/d/1-YZgNIkJshhQceFYaSvN-KGtVNId2_qWNT00BNPGdNE/edit?gid=293948849#gid=293948849" style="background-color: red; color: white; padding: 10px 20px; border: none; border-radius: 5px; text-decoration: none;">Buka Spreadsheet</a>
       Pencatatan Counter By AWAL
     </div>
   </div>
